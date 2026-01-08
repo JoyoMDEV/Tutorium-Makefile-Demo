@@ -1,8 +1,10 @@
 # Makefile Demo - Anleitung für Tutoren
 
 ## Vorbereitung
-Alle Dateien in einen Ordner legen, Terminal öffnen.
-
+```bash 
+git clone https://github.com/JoyoMDEV/Tutorium-Makefile-Demo.git 
+cd Tutorium-Makefile-Demo
+```
 ## Demo-Ablauf
 
 ### 1. Problem zeigen (manuelles Kompilieren)
