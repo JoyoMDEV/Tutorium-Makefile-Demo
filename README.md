@@ -12,7 +12,8 @@ cd Tutorium-Makefile-Demo
 # Zeig wie nervig das ist:
 gcc -Wall -c main.c
 gcc -Wall -c utils.c
-gcc -o main main.o utils.o
+gcc -Wall -c mathe.h
+gcc -o main main.o utils.o mathe.h
 ./main
 
 # Aufräumen und nochmal - fehleranfällig!
